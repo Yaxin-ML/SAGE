@@ -42,11 +42,11 @@ If you find our method useful, please consider citing our paper:
   ```
   @inproceedings{SAGE,
   author       = {Yaxin Hou and
-                  Jun Ma and
+				  Jun Ma and
 				  Hanyang Li and
-                  Bo Han and
+				  Bo Han and
 				  Jie Yu and
-                  Yuheng Jia},
+			      Yuheng Jia},
   title        = {Beyond Distribution Estimation: Simplex Anchored Structural Inference
 				  Towards Universal Semi-Supervised Learning},
   booktitle    = {International Conference on Machine Learning (ICML)},
