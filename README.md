@@ -47,7 +47,7 @@ If you find our method useful, please consider citing our paper:
 				  Bo Han and
 				  Jie Yu and
 			      Yuheng Jia},
-  title        = {Beyond Distribution Estimation: Simplex Anchored Structural Inference 
+  title        = {Beyond Distribution Estimation: Simplex Anchored Structural Inference
 				  Towards Universal Semi-Supervised Learning},
   booktitle    = {International Conference on Machine Learning (ICML)},
   volume       = {},
